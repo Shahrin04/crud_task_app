@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:crud_task_app/data/constants/strings.dart';
+import 'package:crud_task_app/data/utils/strings.dart';
 import 'package:crud_task_app/data/model/data_model.dart';
 import 'package:crud_task_app/data/model/get_data_response.dart';
 import 'package:http/http.dart' as http;
